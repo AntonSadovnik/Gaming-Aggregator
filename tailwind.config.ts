@@ -31,6 +31,22 @@ export default {
     fontFamily: {
       main: ["Poppins", "sans-serif"],
     },
+    fontSize: {
+      "mobile-1": "46px",
+      "mobile-2": "37px",
+      "mobile-3": "29px",
+      "mobile-4": "23px",
+      "mobile-5": "19px",
+      "mobile-6": "15px",
+      "mobile-7": "12px",
+      "mobile-8": "10px",
+      "mobile-9": "8px",
+      "desktop-1": "117px",
+      "desktop-2": "94px",
+      "desktop-3": "75px",
+      "desktop-4": "60px",
+      "desktop-5": "48px",
+    },
     extend: {
       colors: {
         background: "var(--background)",
