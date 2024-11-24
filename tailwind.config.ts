@@ -47,12 +47,7 @@ export default {
       "desktop-4": "60px",
       "desktop-5": "48px",
     },
-    extend: {
-      colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
-      },
-    },
+    extend: {},
   },
   plugins: [],
 } satisfies Config;
