@@ -28,7 +28,9 @@ export default {
         950: "#300077",
       },
     },
-    fontFamily: {},
+    fontFamily: {
+      main: ["Poppins", "sans-serif"],
+    },
     extend: {
       colors: {
         background: "var(--background)",
